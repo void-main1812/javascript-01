@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/void-main1812/javascript-01#readme",
   "dependencies": {
+    "math": "^0.0.3",
     "prompt-sync": "^4.2.0"
   }
 }

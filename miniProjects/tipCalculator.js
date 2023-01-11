@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")();    //defined prompt to take user input
+const prompt = require("prompt-sync")();    // imported prompt to take user input
 
 let food = prompt("Price of the food: ")                        //price for the food
 let tip = prompt("How much tip you want to give (in %): ")      //total tip in %
