@@ -4,11 +4,11 @@ let weather = prompt("How's the weather outside ?") //asking the user about the 
 
 
 // suggesting some solutions to the user according to the weather entered 
-if (weather == "rainy") {
+if (weather.toLocaleLowerCase() == "rainy") {
     console.log("Just Grab an umbrella 🌂")
 }
 
-else if (weather == "sunny") {
+else if (weather.toLocaleLowerCase() == "sunny") {
     console.log("Get your sunglasses 😎")
 }
 
