@@ -3,7 +3,6 @@
 // console.log("hello world 😄")  //or
 // console.log('hello world 😄')      //both of console.log works the same 
 
-
 /*----------------------------- basics_00 - variables ----------------------------------------------*/
 /* there are three ways to define a variable in javaScript
 1-let       //declares a variable 🌊
@@ -134,4 +133,10 @@ Functions  -->  Functions in JavaScript or any other language are some blocks of
  here it is very much easy for us to understand how the function is working 😄
 
  ❗️❗️Note: if you remove {} from the arrow function then you dont need to write the return keyword and it will return implicitely. Other by-default arrow functions returns the output explicitely 
+*/
+
+/*----------------------------- basics_04 - Arrays ----------------------------------------------*/
+/*
+Arrays: Array is a data-structure which is used to store similar type of values together.
+For example: let groceries = ["🍎", "🥔", "🍌", "🍇"] and much more
 */
