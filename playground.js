@@ -41,3 +41,12 @@
 // var c = "1,2,3"
 
 // c == b ? console.log("true") : console.log("false")
+
+// function trying()
+// {
+//     a = 2;
+//     console.log(a)
+// }
+
+// trying();
+// a;
